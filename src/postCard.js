@@ -1,4 +1,4 @@
-import placeholder from '../images/placeholder.jpg';
+import placeholder from './images/placeholder.jpg';
 
 const PostCard = ( { post, edit } ) => {
 	// Convert post date to a more readable format

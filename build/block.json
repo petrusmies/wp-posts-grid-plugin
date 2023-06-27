@@ -13,7 +13,7 @@
   },
   "name": "evermade/posts-plugin",
   "version": "0.1.0",
-  "title": "Evermade Posts Plugin",
+  "title": "Evermade Posts Grid",
   "category": "widgets",
   "icon": "grid-view",
   "description": "A block that displays posts in a grid.",
